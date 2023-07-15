@@ -1,5 +1,5 @@
 # Double-DQN
-> Implementation of **Double-DQN**
+> Unofficial Implementation of **Double-DQN**
 > <br>OpenAI-GYM : Atari-game environment **"breakout-v0"**
 # Results
 <img src="media/breakout_final_video.gif" width="40%"><br>
